@@ -4,6 +4,9 @@
 [![built with javascript](https://img.shields.io/badge/built%20with-javascript-brightgreen.svg)](https://www.python.org/)
 
 # Gun Violence in America
+
+![Gun-Violence](https://noczone-fvdefpncfaxtmfnyjx.netdna-ssl.com/wp-content/uploads/2017/10/gunviolence.jpg)
+
 ***
 ## Members:
 * Sue Hellen Del Carpio Bellido Vargas
